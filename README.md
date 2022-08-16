@@ -17,6 +17,8 @@ Síntesis:
 - Existen grandes diferencia en la huella de carbono de los alimentos. Producir un kilogramo de carne de vacuno generar 60 veces más emisiones que producir la misma masa de mandioca.
 
 
+
+
 Leer artículo completo en:
 
 https://ourworldindata.org/food-choice-vs-eating-local
