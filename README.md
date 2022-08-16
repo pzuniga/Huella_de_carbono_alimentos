@@ -1,8 +1,6 @@
 # Huella_de_carbono_alimentos
 ¿Quieres disminuir la huella de carbono de tus alimentos? Concéntrese en lo que come, no si es local
 
-Ejercicio de visualización de datos (práctica)
-
 Síntesis:
 
 - En la gráfica se aprecian las emisiones netas de gases de efecto invernadero (GEI) de 29 tipos de alimentos, en unidades de kgCO2e/kg producto.
@@ -16,7 +14,8 @@ Síntesis:
     - Comercialización minorista (Retail)
 - Existen grandes diferencia en la huella de carbono de los alimentos. Producir un kilogramo de carne de vacuno generar 60 veces más emisiones que producir la misma masa de mandioca.
 
-
+Ejercicio de visualización de datos (práctica)
+![alt text](https://github.com/pzuniga/Huella_de_carbono_alimentos/blob/main/HdeC_alimentos.png)
 
 
 Leer artículo completo en:
