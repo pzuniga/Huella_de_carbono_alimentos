@@ -12,7 +12,7 @@ Síntesis:
     - Transporte (Transport)
     - Embalaje (Packging)
     - Comercialización minorista (Retail)
-- Existen grandes diferencia en la huella de carbono de los alimentos. Producir un kilogramo de carne de vacuno generar 60 veces más emisiones que producir la misma masa de mandioca.
+- Existen grandes diferencia en la huella de carbono de los alimentos. Por ejemplo, producir un kilogramo de carne de vacuno generar 60 veces más emisiones que producir la misma masa de mandioca.
 
 Ejercicio de visualización de datos (práctica)
 ![alt text](https://github.com/pzuniga/Huella_de_carbono_alimentos/blob/main/HdeC_alimentos.png)
